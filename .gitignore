@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AnketttV2/bin/Debug
+/AnketttV2/obj/Debug
+/DAL/bin/Debug
+/DAL/obj/Debug
+/Entity/bin/Debug
+/Entity/obj/Debug
